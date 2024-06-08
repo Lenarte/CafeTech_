@@ -126,3 +126,4 @@ C:\_ws\CafeTechSoftware-main\CafeTechSoftware-main\obj\Debug\net8.0\refint\CafeT
 C:\_ws\CafeTechSoftware-main\CafeTechSoftware-main\obj\Debug\net8.0\CafeTechApi.pdb
 C:\_ws\CafeTechSoftware-main\CafeTechSoftware-main\obj\Debug\net8.0\CafeTechApi.genruntimeconfig.cache
 C:\_ws\CafeTechSoftware-main\CafeTechSoftware-main\obj\Debug\net8.0\ref\CafeTechApi.dll
+C:\_ws\CafeTechSoftware-main\CafeTechSoftware-main\obj\Debug\net8.0\CafeTechApi.sourcelink.json

@@ -26,6 +26,7 @@ public static class ClienteApi
                 return Results.NotFound();
             }
 
+            cliente.IdCliente = clienteAlterado.IdCliente;
             cliente.Nome = clienteAlterado.Nome;
             cliente.CPF = clienteAlterado.CPF;
             cliente.Telefone = clienteAlterado.Telefone;
